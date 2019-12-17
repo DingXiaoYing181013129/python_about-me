@@ -14,15 +14,15 @@
 ---
 
 ## 关于我的python学习情况
-* 掌握Python的模块类型、列表、元组、while循环、字典、集合、函数等等知识
-* 多次实操python课程要求掌握的web应用、MySQL数据库等,熟悉flask运行操作,web项目操作成功并部署到pythonanywhere的云中，并且可通过web应用查看日志
+* 掌握Python的模块类型、列表、元组、while循环、字典、集合、函数等知识
+* 多次实操python课程要求掌握的web应用、MySQL数据库等等,熟悉flask运行操作,web项目操作成功并部署到pythonanywhere的云中，并且可通过web应用查看日志
 * 我是熬夜冠军！通宵研究不在话下！
 
 ---
 
 ## 我的项目
 * [颜色选择器](http://hiuying.pythonanywhere.com/entry)
-* ![](python_about-me/view log.png)
+* ![view log](https://github.com/DingXiaoYing181013129/python_about-me/blob/master/view%20log.png?raw=true)
   
 ---
 
