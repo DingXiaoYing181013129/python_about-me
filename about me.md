@@ -22,7 +22,7 @@
 
 ## 我的项目
 * [颜色选择器](http://hiuying.pythonanywhere.com/entry)
-* ![](view log.png)
+* ![](python_about-me/view log.png)
   
 ---
 
