@@ -1,7 +1,7 @@
 # 自我策展
 
 ## 自我介绍
-* 我叫丁晓莹，来自18网络与新媒体1班，热情开朗，希望能和师兄师姐们共同努力，一起搞掂期末项目！开开心心过年！
+* 我叫丁晓莹，来自18级网络与新媒体1班，热情开朗，希望能和师兄师姐们共同努力，一起搞掂期末项目！开开心心过年！
  
 ---
  
@@ -21,8 +21,8 @@
 ---
 
 ## 我的项目
-* [颜色选择器](http://hiuying.pythonanywhere.com/entry)
-* ![view log](https://github.com/DingXiaoYing181013129/python_about-me/blob/master/view%20log.png?raw=true)
+* 项目一、 [颜色选择器](http://hiuying.pythonanywhere.com/entry)
+* 项目二、 ![view log](https://github.com/DingXiaoYing181013129/python_about-me/blob/master/view%20log.png?raw=true)
   
 ---
 
